@@ -11,7 +11,7 @@ import SwiftUI
 struct BookRecApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Interface()
         }
     }
 }
